@@ -20,7 +20,7 @@ function dp_dashboard_admin_setup() {
 }
 
 /**
- * @since 0.1.0
+ * @since 0.1.0 update_new
  */
 function dp_dashboard_admin_page() {
 
